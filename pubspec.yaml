@@ -5,6 +5,6 @@ description: A minimal command-line application.
 #homepage: https://www.example.com
 environment:
   sdk: '>=1.0.0 <2.0.0'
-#dependencies:
+dependencies:
 #  foo_bar: '>=1.0.0 <2.0.0'
 
